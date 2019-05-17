@@ -3,3 +3,7 @@
 
 ### How to download!
 ##### Firstly, go to Code, you're probably there now, then go to releases, there you'll find a .osk file, download it and open it in osu!
+
+# https://osu.ppy.sh/community/forums/topics/908840
+
+##### I wonder if BBCode Works here?
