@@ -13,4 +13,6 @@ This skin is somewhat WIP but you can always download the latest version at the 
 ### If you have any issues experiencing this skin, please create an [issue.](https://github.com/Hubza/Eclipsed/issues)
 ### If you have any ideas what we should add or change to this skin, please create an [pull request.](https://github.com/Hubza/Eclipsed/pulls)
 
+###If anyone wants to help with this skin, [join our discord!](https://discord.gg/MCD5w2)
+
 ### [Forum post](https://osu.ppy.sh/community/forums/topics/908840)
