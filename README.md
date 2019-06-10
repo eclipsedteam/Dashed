@@ -1,9 +1,9 @@
-# The Eclipsed osu! skin
+# Eclipsed osu! skin
 ![alt text](https://i.imgur.com/wcZIRNq.png "Eclipsed Logo")
 
-### The Eclipsed osu! skin is a skin I've been working on for around a year now, It started off with the name Material++, (which you can find [here](https://github.com/Hubza/MPP-osu)) - Then it got renamed to Eclipsed, which brings us to now after a little time. 
+### The Eclipsed skin is a skin I've been working on for around a year now, It started off with the name Material++ (which you can find [here](https://github.com/Hubza/MPP-osu)), then it got renamed to Eclipsed, which brings us here after a little time. 
 
-This skin is somewhat WIP but you can always download the latest version at the download link below!
+This skin is somewhat WIP but you can always download the latest stable version below!
 
 ### [Download link](https://github.com/Hubza/eclipsed/releases/latest/download/Eclipsed.osk)
 
