@@ -3,11 +3,11 @@
 
 ### The Eclipsed skin is a skin I've been working on for around a year now, It started off with the name Material++ (which you can find [here](https://github.com/Hubza/MPP-osu)), then it got renamed to Eclipsed, which brings us here after a little time. 
 
-This skin is somewhat WIP but you can always download the latest stable version below!
+This skin is currently WIP (Work in Progress) but you can always try the latest stable version below!
 
 ### [Download link](https://github.com/solarteam/Eclipsed/releases/latest/download/Eclipsed.osk)
 
-### Interested in pre-releases?
+### Tutorial
 Firstly, go to Code, you're probably there already, then go to [releases](https://github.com/solarteam/Eclipsed/releases). There you'll find a .osk file. Click it, and it will start downloading. Once it is done, open it. It will open osu!, but with the skin! If you want to revert/change it at any time, go to the osu! options, then go to the section Skin (paint brush icon), and there you go!
 
 ### If you have any issues experiencing this skin, please create an [issue.](https://github.com/solarteam/Eclipsed/issues)
