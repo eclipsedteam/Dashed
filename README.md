@@ -4,13 +4,13 @@
 
 This skin is currently WIP (Work in Progress) but you can always try the latest stable version below!
 
-### [Download link](https://github.com/eclipsedteam/Dashed/releases/latest/download/Eclipsed.osk)
+### [Download link](https://github.com/eclipsedteam/Dashed/releases/latest/download/Dashed.osk)
 
 ### Tutorial
-Firstly, go to Code, you're probably there already, then go to [releases](https://github.com/eclipsedteam/dashed/releases). There you'll find a .osk file. Click it, and it will start downloading. Once it is done, open it. It will open osu!, but with the skin! If you want to revert/change it at any time, go to the osu! options, then go to the section Skin (paint brush icon), and there you go!
+Firstly, go to Code, you're probably there already, then go to [releases](https://github.com/eclipsedteam/Dashed/releases). There you'll find a .osk file. Click it, and it will start downloading. Once it is done, open it. It will open osu!, but with the skin! If you want to revert/change it at any time, go to the osu! options, then go to the section Skin (paint brush icon), and there you go!
 
-### If you have any issues experiencing this skin, please create an [issue.](https://github.com/eclipsedteam/dashed/issues)
-### If you have any ideas what we should add or change to this skin, please create an [pull request.](https://github.com/eclipsedteam/dashed/pulls)
+### If you have any issues experiencing this skin, please create an [issue.](https://github.com/eclipsedteam/Dashed/issues)
+### If you have any ideas what we should add or change to this skin, please create an [pull request.](https://github.com/eclipsedteam/Dashed/pulls)
 ### If you want to help with this skin, join our [discord!](https://discord.gg/MCD5w2)
 
 ### [Forum post (osu! community forums)](https://osu.ppy.sh/community/forums/topics/921234)
