@@ -13,6 +13,6 @@ Firstly, go to Code, you're probably there already, then go to [releases](https:
 ### If you have any ideas what we should add or change to this skin, please create an [pull request.](https://github.com/eclipsedteam/dashed/pulls)
 ### If you want to help with this skin, join our [discord!](https://discord.gg/MCD5w2)
 
-### [Forum post (osu! community forums) - Coming Soon](owo)
+### [Forum post (osu! community forums)](https://osu.ppy.sh/community/forums/topics/921234)
 
 I'll be posting random things about the skin every now and then on my [Twitter!](https://twitter.com/hubziii)
