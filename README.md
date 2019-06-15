@@ -6,7 +6,7 @@ This skin is currently WIP (Work in Progress) but you can always try the latest 
 
 ### [Download link](https://github.com/eclipsedteam/Dashed/releases/latest/download/Dashed.osk)
 
-### Tutorial
+### Tutorial for pre-releases
 Firstly, go to Code, you're probably there already, then go to [releases](https://github.com/eclipsedteam/Dashed/releases). There you'll find a .osk file. Click it, and it will start downloading. Once it is done, open it. It will open osu!, but with the skin! If you want to revert/change it at any time, go to the osu! options, then go to the section Skin (paint brush icon), and there you go!
 
 ### If you have any issues experiencing this skin, please create an [issue.](https://github.com/eclipsedteam/Dashed/issues)
